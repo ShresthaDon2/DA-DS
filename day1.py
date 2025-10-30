@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # name="Ishan"
 # print(type(name))
 
@@ -83,7 +83,7 @@
 # Ram.display()
 
 
-=======
+
 # print("Hello world")
 
  
@@ -444,10 +444,3 @@ while True:
 
 # for i in dict1:
 #     print(dict1.get(i))
-    
-    
-    
-    
-    
-    
->>>>>>> ab0fefd (Initial commit)
