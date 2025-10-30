@@ -1,0 +1,2 @@
+{"Ishan": {"password": "8281", "balance": 495}}
+{"Prashant": {"password": "1234", "balance": 0}}
